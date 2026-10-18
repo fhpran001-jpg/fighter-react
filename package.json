@@ -1,0 +1,15 @@
+
+{
+  "name": "fighter-react",
+  "version": "1.0.0",
+  "description": "FiGHTeR React Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.4.7"
+  }
+}
